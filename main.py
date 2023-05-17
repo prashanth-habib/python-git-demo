@@ -5,5 +5,5 @@ def version(num):
 
 
 if __name__ == "__main__":
-    version_var = version(5)
+    version_var = version(2)
     print(version_var)
